@@ -39,8 +39,5 @@ public class CreateContactTest extends BaseClass{
 		Reporter.log("Header captured");
 	}
 	
-	@Test
-	public void demo() {
-	System.out.println("from demo");
-	}
+
 }
